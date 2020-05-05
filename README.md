@@ -1,4 +1,4 @@
-# The `times` Construct
+t is # The `times` Construct
 
 ## Objectives
 
